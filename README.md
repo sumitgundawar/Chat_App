@@ -6,19 +6,19 @@
 
 ##Backend:
 
-Open the terminal and navigate to the backend directory. cd backend
+1. Open the terminal and navigate to the backend directory. <br>cd backend
 
-Start the NodeJS server. npm run start
+2. Start the NodeJS server. <br>npm run start
 
-Stop the server by pressing ctrl + c.
+3. Stop the server by pressing ctrl + c.
 
 ##Frontend:
 
-Open a new terminal window and navigate to the frontend directory. cd frontend
+1. Open a new terminal window and navigate to the frontend directory. <br>cd frontend
 
-Start the Vite project with React. npm run dev
+2. Start the Vite project with React. <br>npm run dev
 
-Stop the server by entering q and pressing enter.
+3. Stop the server by entering q and pressing enter.
 
 ##ChatEngine Integration This Chat App currently uses the free trial account for ChatEngine, which provides a 30-day trial period with a 14-day chat history. For a full-scale commercial project, you will need to purchase the appropriate ChatEngine plan. Explore more about ChatEngine here.
 
